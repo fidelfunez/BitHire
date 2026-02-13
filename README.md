@@ -2,7 +2,7 @@
 
 A stunning, enterprise-level website for Bithire, a specialized developer recruitment agency connecting US companies with vetted remote developers from Latin America.
 
-## 🚀 Features
+## Features
 
 - **Modern Design**: Glassmorphic UI with blue-to-orange gradient theme
 - **Developer-Focused**: Built by developers, for developers
@@ -11,7 +11,7 @@ A stunning, enterprise-level website for Bithire, a specialized developer recrui
 - **Dark Mode Optimized**: Beautiful dark theme with excellent contrast
 - **Performance**: Optimized for snappy scrolling and fast loading
 
-## 🎨 Design Highlights
+## Design Highlights
 
 - **Glassmorphism**: Semi-transparent elements with backdrop blur effects
 - **Gradient Theme**: Blue to orange color scheme reflecting company branding
@@ -19,7 +19,7 @@ A stunning, enterprise-level website for Bithire, a specialized developer recrui
 - **Enterprise Feel**: Professional design that conveys trust and expertise
 - **Interactive Components**: Hover effects, animations, and smooth transitions
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 18**: Modern React with hooks and functional components
 - **Tailwind CSS**: Utility-first CSS framework for rapid development
@@ -27,7 +27,7 @@ A stunning, enterprise-level website for Bithire, a specialized developer recrui
 - **Lucide React**: Beautiful, customizable SVG icons
 - **Vite**: Fast build tool and development server
 
-## 📦 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -48,7 +48,7 @@ A stunning, enterprise-level website for Bithire, a specialized developer recrui
 4. **Open your browser**
    Navigate to `http://localhost:3000`
 
-## 🏗️ Build for Production
+## Build for Production
 
 ```bash
 npm run build
@@ -56,7 +56,7 @@ npm run build
 
 The build files will be created in the `build/` directory, ready for deployment.
 
-## 🌐 Deployment
+## Deployment
 
 ### Netlify (Recommended)
 1. Connect your GitHub repository to Netlify
@@ -71,7 +71,7 @@ The built files can be deployed to any static hosting service:
 - GitHub Pages
 - Firebase Hosting
 
-## 📱 Sections
+## Sections
 
 1. **Hero**: Compelling headline with 2 free hires offer
 2. **Services**: Remote recruitment and Bitcoin payroll solutions
@@ -81,7 +81,7 @@ The built files can be deployed to any static hosting service:
 6. **CTA**: Call-to-action with contact information
 7. **Footer**: Company links and contact details
 
-## 🎯 Key Messages
+## Key Messages
 
 - **2 Free Hires**: Risk-free trial offer
 - **Developer Expertise**: Built by developers, for developers
@@ -90,7 +90,7 @@ The built files can be deployed to any static hosting service:
 - **Bitcoin Payroll**: Open-source supporting payment options
 - **Quality Guarantee**: 60-day satisfaction guarantee
 
-## 🔧 Customization
+## Customization
 
 ### Colors
 Modify the gradient theme in `tailwind.config.js`:
@@ -107,16 +107,16 @@ Update company information, testimonials, and contact details in the respective 
 ### Animations
 Adjust animation timing and effects in the Framer Motion components.
 
-## 📄 License
+## License
 
 This project is proprietary to Bithire. All rights reserved.
 
-## 🤝 Support
+## Support
 
 For questions or support, contact:
 - Email: connect@bithire.com
-- Phone: +504 9878-1409
+- Phone: +1 281-541-7279
 
 ---
 
-Built with 🧡 by the Bithire team
+Dedicated to the talent of Latin America 🧡.
