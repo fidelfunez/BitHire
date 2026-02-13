@@ -1,4 +1,4 @@
-# Bithire - Modern Developer Recruitment Website
+# BitHire - Modern Developer Recruitment Website
 
 A stunning, enterprise-level website for Bithire, a specialized developer recruitment agency connecting US companies with vetted remote developers from Latin America.
 
